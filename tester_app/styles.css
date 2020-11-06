@@ -79,7 +79,67 @@ button.submit {
   margin-right: 5px;
   border-width: 0;
 }
+button.del {
+  min-height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  border-color: transparent;
+  background-color: red;
+  color: #fff;
+  font-size: 20px;
+  padding-bottom: 6px;
+  border-width: 0;
+  margin-left: 10px;
+}
 
+input[type="text"] {
+  text-align: center;
+  height: 60px;
+  top: 10px;
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  font-weight: 200;
+  width: 313px;
+}
+
+  .box {
+    width: 250px;
+    margin: 50px auto;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+  }button.del {
+    min-height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border-color: transparent;
+    background-color: red;
+    color: #fff;
+    font-size: 20px;
+    padding-bottom: 6px;
+    border-width: 0;
+    margin-left: 10px;
+  }
+
+  input[type="text"] {
+    text-align: center;
+    height: 60px;
+    top: 10px;
+    border: none;
+    background: transparent;
+    font-size: 20px;
+    font-weight: 200;
+    width: 313px;
+  }
+
+    .box {
+      width: 250px;
+      margin: 50px auto;
+      background: white;
+      border-radius: 5px;
+      box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    }
   input[type="text"] {
     text-align: center;
     height: 60px;
