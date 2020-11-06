@@ -172,6 +172,29 @@ input[type="text"] {
     padding-bottom: 6px;
     border-width: 0;
   }
+  button.del {
+    min-height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border-color: transparent;
+    background-color: red;
+    color: #fff;
+    font-size: 17px;
+    padding-bottom: 6px;
+    border-width: 0;
+  }
+  button.del {
+    min-height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border-color: transparent;
+    background-color: red;
+    color: #fff;
+    font-size: 17px;
+    padding-bottom: 6px;
+    border-width: 0;
+  }
+  
   p.tu{
     margin: 0;
     padding: 20px;
