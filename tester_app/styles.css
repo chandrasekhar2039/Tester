@@ -11,6 +11,11 @@ body{
     margin-right: -50%;
     transform: translate(-50%, -50%);
 }
+h6{
+  border: 0;
+  height: 1em;
+  width: auto;
+}
 h1 {
   color: #fff;
   padding: 10px;
@@ -92,7 +97,7 @@ button.del {
   margin-left: 10px;
 }
 
-    
+
   input[type="text"] {
     text-align: center;
     height: 60px;
