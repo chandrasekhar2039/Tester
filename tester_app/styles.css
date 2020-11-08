@@ -92,30 +92,6 @@ button.del {
   margin-left: 10px;
 }
 
-input[type="text"] {
-  text-align: center;
-  height: 60px;
-  top: 10px;
-  border: none;
-  background: transparent;
-  font-size: 20px;
-  font-weight: 200;
-  width: 313px;
-}
-
-
-
-  input[type="text"] {
-    text-align: center;
-    height: 60px;
-    top: 10px;
-    border: none;
-    background: transparent;
-    font-size: 20px;
-    font-weight: 200;
-    width: 313px;
-  }
-
     .box {
       width: 250px;
       margin: 50px auto;
