@@ -1,21 +1,4 @@
-html {
-  background-color: #E4E9FD;
-  background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
-  min-height: 780px;
-  font-family: 'helvetica neue';
-  }
-body{
-  position: absolute;
-    top: 40%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);
-}
-h6{
-  border: 0;
-  height: 1em;
-  width: auto;
-}
+
 h1 {
   color: #fff;
   padding: 10px;
