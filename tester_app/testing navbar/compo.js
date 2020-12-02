@@ -28,13 +28,7 @@ function Leftbar(){
     <Nav icon={<Avatar src={user.photoURL} />} name={user.displayName} />
     <Nav icon={<FlagTwoToneIcon />} name="Pages" />
     <Nav icon={<LocalHospitalTwoToneIcon />} name="COVID-19 Information Centre" />
-    <Nav icon={<SupervisorAccountTwoToneIcon />} name="Friends" />
-    <Nav icon={<GroupTwoToneIcon />} name="Groups" />
-    <Nav icon={<StorefrontTwoToneIcon />} name="Marketplace" />
-    <Nav icon={<VideoLibraryTwoToneIcon />} name="Videos" />
-    <Nav icon={<EventAvailableTwoToneIcon />} name="Events" />
-    <Nav icon={<UpdateTwoToneIcon />} name="Memories" />
-    <Nav icon={<KeyboardArrowDownRoundedIcon />} name="See more" />
+    
   </div>
  <hr className="line" />
   <div className="leftbar_botom">
