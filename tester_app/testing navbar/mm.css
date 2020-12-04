@@ -21,3 +21,10 @@
 .item:last-child {
   border-bottom: 0;
 }
+.native{
+  border: 2px;
+  align-items: baseline;
+  z-index: auto;
+  width: 7vh;
+  height: 67px;
+}
