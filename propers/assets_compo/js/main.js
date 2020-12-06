@@ -150,10 +150,6 @@
   });
 
   // jQuery counterUp
-  $('[data-toggle="counter-up"]').counterUp({
-    delay: 10,
-    time: 1000
-  });
 
   // Porfolio isotope and filter
   $(window).on('load', function() {
@@ -170,13 +166,13 @@
       });
     });
 
-    // Initiate venobox (lightbox feature used in portofilo)
-    $(document).ready(function() {
-      $('.venobox').venobox({
-        'share': false
-      });
-    });
-  });
+  //   // Initiate venobox (lightbox feature used in portofilo)
+  //   $(document).ready(function() {
+  //     $('.venobox').venobox({
+  //       'share': false
+  //     });
+  //   });
+  // });
 
   // Portfolio details carousel
   $(".portfolio-details-carousel").owlCarousel({
