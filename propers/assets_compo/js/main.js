@@ -61,6 +61,9 @@
       }
     }
   });
+  function added(document){
+    $(document).alert("the popins prompt wrking");
+  }
   // Portfolio details carousel
   $(".portfolio-details-carousel").owlCarousel({
     autoplay: true,
