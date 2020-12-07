@@ -112,12 +112,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 /* ==========================extra custome============ */
 
-.row-content {
-    margin:0px auto;
-    padding: 50px 0px 50px 0px;
-    border-bottom: 1px ridge;
-    min-height:400px;
-}
 
 .footer{
     background-color: #d9ecf2;
