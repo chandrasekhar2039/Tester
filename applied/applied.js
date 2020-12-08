@@ -3,9 +3,7 @@ import React from "react";
 function NavBar(){
 
   return (
-    <header>
-    <h1>Keeper</h1>
-  </header>
+    <nav><h1>hello world</h1></nav>
 )
 }
 
