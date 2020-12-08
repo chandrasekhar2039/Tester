@@ -118,11 +118,7 @@ h1, h2, h3, h4, h5, h6 {
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
-.jumbotron {
-    padding:70px 30px 70px 30px;
-    margin:0px auto;
-    background: #d9ecf2 ;
-}
+
 
 address{
     font-size:80%;
