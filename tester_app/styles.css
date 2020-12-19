@@ -246,27 +246,11 @@ button.del {
     padding-bottom: 6px;
     border-width: 0;
   }
-  
 
 
 
 
-}
-.to-do{
-  border-color: transparent;
-  background-color: #A683E3;
-  color: #fff;
-  font-size: 1.5rem;
-  margin-top: 10px;
-  margin-bottom: 15px;
-  border-radius: 5px;
-  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
-}
-.index{
-  display: block;
-  justify-content: center;
-  text-align: center;
-}
+
 input[type="date"] {
   text-align: center;
   height: 60px;
