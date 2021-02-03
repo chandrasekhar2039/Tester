@@ -244,28 +244,7 @@ p.tu {
     border-width: 0;
   }
 
-  button.del {
-    min-height: 20px;
-    width: 20px;
-    border-radius: 50%;
-    border-color: transparent;
-    background-color: red;
-    color: #fff;
-    font-size: 17px;
-    padding-bottom: 6px;
-    border-width: 0;
-  }
-
-   h4 {
-    justify-content: center;
-    text-align: center;
-    font-size: 1.7rem;
-    padding-top: 15px;
-    margin-block-end: 0px;
-    margin-block-start: 0px;
-    color: grey;
-    opacity: 1;
-  }
+  
 
   @media only screen and (max-width: 600px) {
 
